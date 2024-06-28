@@ -14,6 +14,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+<<<<<<< HEAD
 nav {
   padding-top: 12px;
   padding-bottom: 12px;
@@ -62,6 +63,69 @@ a:hover {
   align-items: center;
   gap: 20px;
 }
+=======
+:root {
+  --colorBg: rgb(240, 247, 243);
+  --colorGren: rgba(221, 255, 223, 1);
+  --colorWhite:rgba(255, 255, 255, 1);
+  --colorGreen:rgba(112, 193, 116, 1);
+  --colorBlack:rgba(82, 85, 96, 1);
+  --colorEven:rgba(190, 243, 192, 1);
+}
+nav {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+ul {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  color: rgba(82, 85, 96, 1);
+}
+a {
+  color: rgba(82, 85, 96, 1);
+  text-decoration: none;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  text-align: left;
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+  a:hover{
+color: rgb(3, 2, 2);
+}
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 110px;
+}
+.nav-button {
+  width: 116px;
+  height: 43px;
+  top: 12px;
+  left: 1274px;
+  padding: 12px 32px 12px 32px;
+  border-radius: 4px;
+  border: none;
+  background: rgba(29, 33, 48, 1);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  color: rgba(255, 255, 255, 1);
+}
+.nav-bar-mini {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+>>>>>>> 59048f561541dabe168f5b8acc542a89f013617b
 @media (max-width: 1403px) {
   .nav-bar {
     display: block;
@@ -140,6 +204,26 @@ input {
   display: flex;
   align-items: start;
   justify-content: space-between;
+<<<<<<< HEAD
+=======
+}
+.footer-text-start {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 25.6px;
+  text-align: left;
+  color: white;
+}
+.footer-p-end {
+  width: 440px;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 56px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+>>>>>>> 59048f561541dabe168f5b8acc542a89f013617b
 }
 .footer-text-start {
   font-family: Roboto;
@@ -192,5 +276,11 @@ input {
     border: 1px solid rgba(235, 240, 249, 0.3);
     background-color: rgb(10, 7, 6);
     color: white;
+<<<<<<< HEAD
   }
 }
+=======
+    }
+}
+
+>>>>>>> 59048f561541dabe168f5b8acc542a89f013617b
