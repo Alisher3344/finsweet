@@ -166,13 +166,15 @@ input {
   text-align: left;
   color: rgba(255, 255, 255, 1);
 }
-.foot-text {
-  padding-top: 24px;
-  font-family: Roboto;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 22.4px;
-  text-align: left;
-  color: rgba(255, 255, 255, 1);
-  opacity: 78%;
+.foot-text{
+    padding-top: 24px;
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+color: 
+rgba(255, 255, 255, 1);
+opacity:78%; 
+
 }
