@@ -41,16 +41,13 @@ a {
   line-height: 18.75px;
   text-align: left;
 }
-<<<<<<< HEAD
 .nav-bar{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
-=======
-a:hover {
-  color: rgb(3, 2, 2);
->>>>>>> 8e8017062527fba7a5028a242f9446722d78ca4b
+}
+  a:hover{
+color: rgb(3, 2, 2);
 }
 .nav-bar {
   display: flex;
@@ -185,7 +182,6 @@ color:
 rgba(255, 255, 255, 1);
 opacity:78%; 
 
-<<<<<<< HEAD
 }
 @media(max-width:1025px){
     .footer-div{
@@ -215,6 +211,4 @@ opacity:78%;
     color: white;
     }
 }
-=======
-}
->>>>>>> 8e8017062527fba7a5028a242f9446722d78ca4b
+
